@@ -1,8 +1,6 @@
 # PixelForge Studios - Landing Page
-![Banner do
-Projeto](https://via.placeholder.com/1200x300.png?text=PixelForge+Stud
-ios+-+Landing+Page)
-## �� Sobre o Projeto
+
+## Sobre o Projeto
 **PixelForge Studios** é um estúdio indie fictício, criado para fins
 educacionais. Este projeto simula o site oficial do estúdio,
 apresentando jogos, trailer promocional, comentários da comunidade e
@@ -19,5 +17,4 @@ CSS e JavaScript em um projeto moderno e imersivo.
 - Google Fonts
 - Font Awesome
 - Animações CSS + scroll suave com JS
-## �� Estrutura de Pastas
-&lt;estrutura_do_projeto&gt;
+
